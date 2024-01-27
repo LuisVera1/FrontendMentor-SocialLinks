@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github](https://github.com/LuisVera1/FrontendMentor-SocialLinks)
-- Live Site URL: [Solution](frontend-mentor-social-links.vercel.app)
+- Live Site URL: [Solution](https://frontend-mentor-social-links.vercel.app/)
 
 ## My process
 
